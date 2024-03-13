@@ -1,9 +1,11 @@
 <svg width="480" height="449" viewBox="0 0 480 449" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.2">
 <mask id="mask0_3541_191" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="480" height="449">
 <path d="M0 8C0 3.58172 3.58172 0 8 0H480V449H7.99999C3.58171 449 0 445.418 0 441V8Z" fill="white"/>
 </mask>
 <g mask="url(#mask0_3541_191)">
 <rect width="1978.22" height="1131.67" transform="matrix(-0.683941 -0.729537 0.683941 -0.729537 650.989 2262.31)" fill="url(#pattern0)"/>
+</g>
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
